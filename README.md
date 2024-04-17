@@ -2,11 +2,8 @@
 
 > supporting models: [`YOLOv5`](https://github.com/ultralytics/yolov5), [`YOLOv3`](https://github.com/ultralytics/yolov3), `MobileNetV2+SSDLite`
 
-![platform-ios](https://img.shields.io/badge/platform-ios-lightgrey.svg)
-![swift-version](https://img.shields.io/badge/swift-4.2-red.svg)
-![lisence](https://img.shields.io/badge/license-MIT-black.svg)
 
-This project is Object Detection on iOS with Core ML.<br>If you are interested in iOS + Machine Learning, visit [here](https://github.com/motlabs/iOS-Proejcts-with-ML-Models) you can see various DEMOs.<br>![SSDMobileNetV2-DEMO](https://user-images.githubusercontent.com/37643248/188248210-2c02790b-6231-4549-8211-e3edcccba9e8.gif)
+This project is Object Detection on iOS with Core ML.
 
 ## Requirements
 
