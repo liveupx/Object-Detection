@@ -1,4 +1,4 @@
-# ObjectDetection-CoreML
+# Object Detection
 
 > supporting models: [`YOLOv5`](https://github.com/ultralytics/yolov5), [`YOLOv3`](https://github.com/ultralytics/yolov3), `MobileNetV2+SSDLite`
 
@@ -17,9 +17,9 @@ This project is Object Detection on iOS with Core ML.<br>If you are interested i
 ## How To Build and Run the Project
 
 ### 1. Clone the project
-
+ 
 ```shell
-git clone https://github.com/tucan9389/ObjectDetection-CoreML
+git clone https://github.com/liveupx/Object-Detection
 ```
 
 ### 2. Prepare Core ML model
